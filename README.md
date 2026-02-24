@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Nilkamal Dey
+# 👋 Hi, I’m Nilkamal Dey (Nil)
 
 👨‍💻 **Developer by heart** who learns best by **breaking code**.
 I spend my time experimenting with **GenAI systems**, **security controls**, **cloud platforms**, and **DevSecOps pipelines**—turning failures and exploits into **practical, secure‑by‑design implementations**.
