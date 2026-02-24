@@ -21,9 +21,7 @@ I’m a **CISSP‑certified Lead Cyber Security Architect** with deep expertise 
 - Open‑source security research & experimentation
 
 ## 📫 How to Reach Me
-- 💼 LinkedIn: *add your LinkedIn URL here*
-- 📧 Email: *add your professional email*
-- 🧠 GitHub: You’re already here 🙂
+- 💼 LinkedIn: *[add your LinkedIn URL here](https://www.linkedin.com/in/nilkamaldey/)*
 
 ---
 
