@@ -22,7 +22,7 @@ I spend my time experimenting with **GenAI systems**, **security controls**, **c
 - Open‑source security research & experimentation
 
 ## 📫 How to Reach Me
-- 💼 LinkedIn: *[add your LinkedIn URL here](https://www.linkedin.com/in/nilkamaldey/)*
+- 💼 LinkedIn: *(https://www.linkedin.com/in/nilkamaldey/)*
 
 ---
 
