@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Nilkamal Dey
 
-I’m a **CISSP‑certified Lead Cyber Security Architect** with deep expertise in **AI Security Innovation, Product Security Engineering, DevSecOps, Penetration Testing, Cloud Security, Incident Management, Security Consulting, and GRC**. I work at the intersection of **secure‑by‑design architecture, automation, and scalable security engineering**.
+👨‍💻 **Developer by heart** who learns best by **breaking code**.
+I spend my time experimenting with **GenAI systems**, **security controls**, **cloud platforms**, and **DevSecOps pipelines**—turning failures and exploits into **practical, secure‑by‑design implementations**.
 
 ## 👀 Interests
 - AI / GenAI / ML Security & secure‑by‑design patterns  
